@@ -1,10 +1,10 @@
-# Sistemas Operacionais I - Profº Leandro Colevati Dos Santos - 2021-1
+# Sistemas Operacionais I - ProfÂº Leandro Colevati Dos Santos - 2021-1
 
-### ISO100-A4_ADS_FATEC-ZL
+### [ISO100-A4_ADS_FATEC-ZL](https://github.com/CTRLMarcws/ISO100-A4_ADS_FATEC-ZL)
 
-Segundo exercicio da segunda lista de Sistemas Operacionais I. Abaixo a descrição do desafio proposto:
+Segundo exercicio da segunda lista de Sistemas Operacionais I. Abaixo a descriÃ§Ã£o do desafio proposto:
 
 #### Ex. 2
-Fazer uma aplicação que rode 5 Threads que cada uma delas imprima no console o seu número.
+Fazer uma aplicaÃ§Ã£o que rode 5 Threads que cada uma delas imprima no console o seu nÃºmero.
 
-Dica: O número que deve ser impresso é a saída da operação int id = getId() da Thread.
+Dica: O nÃºmero que deve ser impresso Ã© a saÃ­da da operaÃ§Ã£o int id = getId() da Thread.
